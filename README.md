@@ -199,15 +199,7 @@ The final result is returned to the command-line interface.
                          └───────────────────┘
 ```
 
----
 
-## Class Diagram
-
-The repository also includes a class diagram showing the main components of the application.
-
-![TravelAssistant Class Diagram](ClassDiagram%20_%20Mermaid%20Chart.png)
-
----
 
 ## Tech Stack
 
