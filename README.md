@@ -529,6 +529,3 @@ Planned areas for further development include:
 * Add persistent booking history
 * Add workflow observability and execution tracing
 
-
-LinkedIn:
-https://www.linkedin.com/in/batandinh
